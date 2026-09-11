@@ -1,0 +1,18 @@
+id: deal-report
+label: 成交喜报
+canvas: [1080, 1920]
+background: deal-report-background.png
+brand_mode: embedded
+feedback_slot: [62, 368, 655, 1176]
+feedback_fit: contain
+route_keywords:
+  - 成交
+  - 签约
+  - 回款
+  - 收款
+  - 复购
+  - 客户
+  - 交付
+  - 收入
+  - 订单
+use_when: 截图主要证明学员成交、客户交付、回款、复购或可核验的业务推进；不能把普通好评硬套为成交。
