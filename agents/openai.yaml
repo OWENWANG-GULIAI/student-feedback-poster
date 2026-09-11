@@ -1,0 +1,6 @@
+interface:
+  display_name: "学员反馈晒圈海报"
+  short_description: "将真实学员反馈截图合成为项目化、隐私保护的晒圈海报"
+  default_prompt: "使用 $student-feedback-poster 为我的课程项目建立反馈海报资料包，或把我上传的学员反馈截图做成可发朋友圈的海报。"
+policy:
+  allow_implicit_invocation: true
