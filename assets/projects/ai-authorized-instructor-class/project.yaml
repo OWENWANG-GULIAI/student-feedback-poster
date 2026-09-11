@@ -1,0 +1,19 @@
+id: ai-authorized-instructor-class
+display_name: AI授权讲师班
+recognition_names:
+  - AI授权讲师班
+  - AIGC企业应用实战讲师授权班
+purpose: 用真实学员反馈建立课程信任，并引导课程咨询
+palette:
+  gold: "#D9A93A"
+  crimson: "#8E0D12"
+  ivory: "#F8F4EA"
+privacy:
+  default: redact-student-identifiers
+  redact_by_default:
+    - 学员昵称
+    - 学员头像
+    - 手机号
+    - 微信号
+    - 地址及其他可识别信息
+default_template: review-tide
