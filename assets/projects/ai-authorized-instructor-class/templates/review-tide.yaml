@@ -1,0 +1,18 @@
+id: review-tide
+label: 好评如潮
+canvas: [1080, 1920]
+background: review-tide-background.png
+brand_mode: embedded
+feedback_slot: [207, 673, 666, 1180]
+feedback_fit: top-crop
+route_keywords:
+  - 好评
+  - 复盘
+  - 感谢
+  - 收获
+  - 值得
+  - 学习
+  - 课程
+  - 老师
+  - 推荐
+use_when: 截图是课程体验、学习复盘、感谢或高密度文字好评；优先保留最有说服力的上半段而不是缩小整张长图。
