@@ -1,0 +1,17 @@
+id: daily-good-news
+label: 今日份开心
+canvas: [1080, 1920]
+background: daily-good-news-background.png
+brand_mode: embedded
+feedback_slot: [209, 495, 662, 1184]
+feedback_fit: contain
+route_keywords:
+  - 欢迎
+  - 加入
+  - 开营
+  - 结营
+  - 获奖
+  - 好消息
+  - 喜讯
+  - 庆祝
+use_when: 截图体现新成员加入、班级动态、阶段喜讯或轻量庆祝；信息不必以成交或长篇好评为主。
